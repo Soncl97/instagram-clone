@@ -1,0 +1,56 @@
+#border {
+    border: 1.5px solid #e6e6e6;
+    border-radius: 2px;
+    width: 420px;
+    margin: 135px auto;
+}
+
+img {
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-bottom: 50px;
+    margin-right: auto;
+}
+
+#password, #rePassword {
+    display: block;
+    background-color: #fafafa;
+    border-radius: 4px;
+    border: 1px solid #e6e6e6;
+    width: 320px;
+    height: 45px;
+    color: #999999;
+}
+
+#password {
+    margin: 8px auto;
+    padding: 0px 10px;
+}
+
+#rePassword {
+    margin: 0px auto;
+    padding: 0px 10px;
+}
+
+#loginBtn {
+    display: block;
+    background-color: #c5e1fa;
+    border-radius: 4px;
+    border: 1px solid #c5e1fa;
+    width: 320px;
+    height: 38px;
+    margin: 20px auto;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+p {
+    display: block;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 25px;
+    color: #043667;
+    font-size: 14px;
+}
